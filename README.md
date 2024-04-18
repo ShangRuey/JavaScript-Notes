@@ -13,3 +13,19 @@
 3. Class-componentLinks to an external site. [參考文件](https://legacy.reactjs.org/docs/components-and-props.html#function-and-class-components)
 4. 學好 React 需要的前置基本功 [參考文件](https://ithelp.ithome.com.tw/articles/10292582)
 5. React 起手式 — JS — ES6篇 [參考文件](https://milkmidi.medium.com/react-%E8%B5%B7%E6%89%8B%E5%BC%8F-js-es6%E7%AF%87-4b8f1a9e07e0)
+6. Creating and nesting components
+7. Writing markup with JSX
+8. Adding styles
+9. Displaying data
+10. Conditional rendering
+11. Rendering lists
+12. Responding to events
+13. Updating the screen
+14. Using hooks
+15. Sharing data between components
+16. Break the UI into a component hierarchy
+17. Build a static version in React
+18. Find the minimal but complete representation of UI state
+19. Identify where your state should live
+20. Add inverse data flow
+21. Outlet {children} Route 關係
