@@ -29,3 +29,5 @@
 19. Identify where your state should live
 20. Add inverse data flow
 21. Outlet {children} Route 關係
+22. useEffect、useState
+23. useNavigate、useParams
