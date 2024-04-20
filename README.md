@@ -31,3 +31,6 @@
 21. Outlet {children} Route 關係
 22. useEffect、useState
 23. useNavigate、useParams
+24. useDispatch、useSelector
+25. 物件解構
+26. Promise、await、async try...catch...
