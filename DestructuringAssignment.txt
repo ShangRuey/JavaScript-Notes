@@ -1,0 +1,34 @@
+陣列 / 物件的解構賦值
+❓ 什麼是解構賦值？解構賦值的用途有哪些？
+
+// 陣列解構賦值
+const [a, b, c] = [1, 2, 3];
+console.log(a); // 输出：1
+console.log(b); // 输出：2
+console.log(c); // 输出：3
+
+// 物件解構賦值
+const { x, y, z } = { x: 1, y: 2, z: 3 };
+console.log(x); // 输出：1
+console.log(y); // 输出：2
+console.log(z); // 输出：3
+
+// 物件解構賦值 並重新命名
+const { x: newX, y: newY } = { x: 1, y: 2 };
+console.log(newX); // 输出：1
+console.log(newY); // 输出：2
+
+// 陣列解構賦值 並 設置預設值
+const [a = 0, b = 0] = [1];
+console.log(a); // 输出：1
+console.log(b); // 输出：0
+
+// 多層解構賦值，方便提取多層結構的數據
+const { x: { y } } = { x: { y: 1 } };
+console.log(y); // 输出：1
+
+let x;
+const { x: { y } } = { x: { y: 1 } };
+console.log(x); // 输出：{ y: 1 }
+console.log(y); // 输出：1
+
