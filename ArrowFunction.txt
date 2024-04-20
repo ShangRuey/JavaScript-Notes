@@ -1,0 +1,17 @@
+//請說明什麼是箭頭函式？並將以下程式碼使用箭頭函式改寫。
+/*
+箭頭函式
+優點：
+簡潔
+綁定this(避免傳統函式的this 問題)
+不綁定arguments 問題(但可以使用Rest Parameters)
+*/
+form.addEventListener('input', function (event) {
+  // do something
+})
+//ans
+form.addEventListener('input', (event) => {
+	//do something
+ }
+);
+
