@@ -1,0 +1,33 @@
+Immutable Types：原始的記憶體位置依舊存放舊有的值，而建立一個新的記憶體位置存放新的值
+
+-Numbers
+
+let num = 10;
+// 以下操作不会修改原始的 num，而是返回一个新的值
+num += 5;
+
+-Strings
+
+let str = 'Hello';
+// 以下操作也不会修改原始的字符串，而是返回一个新的字符串
+str += ' World';
+
+-Booleans
+
+let bool = true;
+// 以下操作同样不会修改原始的布尔值，而是返回一个新的布尔值
+bool = false;
+
+Mutable Types ：直接從原始的記憶體位置做修改
+
+-Arrays
+let arr = [1, 2, 3];
+// 以下操作会修改原始数组
+arr.push(4);
+
+
+
+-Objects
+let obj = { key: 'value' };
+// 以下操作同样会修改原始对象
+obj.key = 'new value';
