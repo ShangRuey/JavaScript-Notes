@@ -1,0 +1,9 @@
+let price = 250;
+let bookname = 'book';
+
+//試著用Template literals 改寫以下
+const str = '<ul class="list"><li><h3>' + bookname + '</h3><p>' + price + '元</p></li></ul>'
+//ans
+const str1 = `<ul class ="list"><li><h3> ${bookname} </h3><p> ${price} 元 </p></li></ul>`
+
+console.log(str1); //<ul class ="list"><li><h3> book </h3><p> 250 元 </p></li></ul>
