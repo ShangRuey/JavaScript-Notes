@@ -1,0 +1,23 @@
+引用沒有 export 的 module 檔案會發生什麼事？
+default vs named exports 使用方式差別為何？
+
+ANS
+引用沒有export 的module 會出現錯誤，引入的變數或函式無法被找到，會收到"Module not found" 或"Module does not provide an export named" 的錯誤訊息
+
+1.Default Export：
+(1) 一個模塊只能有一個default export。
+(2)使用default export 時，在導入模塊時可以自定義任何名稱。
+
+// Module.js
+export default function() {
+  console.log("Default export function");
+}
+
+// 在另一個文件中導入
+import myFunction from './Module.js';
+myFunction(); // 調用默認導出的函式
+
+2.Named Exports：
+(1)可以有多個named exports 每個export 都有一個函式名稱
+(2)導入時 需使用指定名稱
+(3)導入時需用大括號{} 包裹導出的名稱
