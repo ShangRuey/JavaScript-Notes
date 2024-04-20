@@ -34,3 +34,5 @@
 24. useDispatch、useSelector
 25. 物件解構
 26. Promise、await、async try...catch...
+27. html axios 導入 與 react axios 導入方式差別
+28. require 與import差別
