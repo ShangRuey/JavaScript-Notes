@@ -38,3 +38,4 @@
 28. require 與import差別
 29. React幾大特性
 30. Node.js React.js Next.js Express.js 
+31. 使用Vite 的功能 [參考影片](https://www.youtube.com/watch?v=vj8KSZjPTUU)
