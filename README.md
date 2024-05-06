@@ -7,8 +7,11 @@
 5. 展開運算子 (Spread Operator) 與其餘運算子 (Rest Operator) [參考文件](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment)
 ## 4/17
 1. immutable 與 mutableLinks to an external site. [參考文件](https://howtocreateapps.com/mutable-and-immutable-types-in-javascript-with-examples/)
-## 5/6 
-1. 開始使用LeetCode 刷題 [Return Length of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed/description/)
+## 5/6 開始使用LeetCode 刷題
+1.  [Return Length of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed/description/)
+[延伸學習-剩餘參數語法Rest parameter](https://ithelp.ithome.com.tw/articles/10214394)
+[延伸學習-展開運算子Spread operator](https://ithelp.ithome.com.tw/articles/10214412)
+2. 
 ## 待完成筆記&每日閱讀筆記
 1. Optional Chaining Operator (?.)Links to an external site. [參考文件](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Operators/Optional_chaining)
 2. ClosureLinks to an external site. [參考文件](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Closures)
