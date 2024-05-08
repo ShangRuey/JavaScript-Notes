@@ -47,8 +47,7 @@
 31. 使用Vite 的功能 [參考影片](https://www.youtube.com/watch?v=vj8KSZjPTUU)
 ***
 <h1 id="get1">Return Length of Arguments Passed</h1>
-``
-function test() {
+<pre><code>function test() {
   console.log("notice the blank line before this function?");
 }
-``
+</code></pre>
