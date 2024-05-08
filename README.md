@@ -46,7 +46,7 @@
 30. Node.js React.js Next.js Express.js 
 31. 使用Vite 的功能 [參考影片](https://www.youtube.com/watch?v=vj8KSZjPTUU)
 ***
-<h1 id="get1">Return Length of Arguments Passed</a>  
+<h1 id="get1">Return Length of Arguments Passed</h1>  
 1.…args 是一個剩餘參數，傳入的任何參數都可以被綁定為陣列
 2.如果確定要做陣列處理 可以使用 …args
 ```javascript
