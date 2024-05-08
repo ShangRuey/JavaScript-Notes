@@ -1,5 +1,4 @@
 # JavaScript-Notes 學習日記
-***
 ## 4/16
 1. 樣板字面值 (Template literals / Template strings) [參考文件](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Template_literals)
 2. 箭頭函式 (arrow function) [參考文件](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
@@ -47,3 +46,4 @@
 30. Node.js React.js Next.js Express.js 
 31. 使用Vite 的功能 [參考影片](https://www.youtube.com/watch?v=vj8KSZjPTUU)
 ***
+<h1 id="section-1">Return Length of Arguments Passed</a>
