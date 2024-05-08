@@ -61,3 +61,9 @@
 }
 console.log(argumentsLength([{},null],"3") //3
 ```
+```javascript
+function greet(name) {
+console.log("Hello, " + name + "!");
+}
+greet("World");
+```
