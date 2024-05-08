@@ -1,4 +1,5 @@
 # JavaScript-Notes 學習日記
+***
 ## 4/16
 1. 樣板字面值 (Template literals / Template strings) [參考文件](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Template_literals)
 2. 箭頭函式 (arrow function) [參考文件](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
@@ -11,7 +12,8 @@
 1.  [Return Length of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed/description/)  
 [延伸學習-剩餘參數語法Rest parameter](https://ithelp.ithome.com.tw/articles/10214394)  
 [延伸學習-展開運算子Spread operator](https://ithelp.ithome.com.tw/articles/10214412)  
-2. 
+2. [Add Two Promises]
+***
 ## 待完成筆記&每日閱讀筆記
 1. Optional Chaining Operator (?.)Links to an external site. [參考文件](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Operators/Optional_chaining)
 2. ClosureLinks to an external site. [參考文件](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Closures)
@@ -44,3 +46,4 @@
 29. React幾大特性
 30. Node.js React.js Next.js Express.js 
 31. 使用Vite 的功能 [參考影片](https://www.youtube.com/watch?v=vj8KSZjPTUU)
+***
