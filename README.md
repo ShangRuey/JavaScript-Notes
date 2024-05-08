@@ -8,10 +8,11 @@
 ## 4/17
 1. immutable 與 mutableLinks to an external site. [參考文件](https://howtocreateapps.com/mutable-and-immutable-types-in-javascript-with-examples/)
 ## 5/6 開始使用LeetCode 刷題
-1.  [Return Length of Arguments Passed](#get1)  
+1.  [Return Length of Arguments Passed]  
 [延伸學習-剩餘參數語法Rest parameter](https://ithelp.ithome.com.tw/articles/10214394)  
 [延伸學習-展開運算子Spread operator](https://ithelp.ithome.com.tw/articles/10214412)  
-2. [Add Two Promises]
+2. [Add Two Promises]  
+[延伸學習-Promise&async await](https://medium.com/@cherylrueichun/leetcode%E5%88%B7%E9%A1%8C-%E8%A4%87%E7%BF%92promise-async-await-93950d4f670b)
 ***
 ## 待完成筆記&每日閱讀筆記
 1. Optional Chaining Operator (?.)Links to an external site. [參考文件](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Operators/Optional_chaining)
@@ -46,8 +47,20 @@
 30. Node.js React.js Next.js Express.js 
 31. 使用Vite 的功能 [參考影片](https://www.youtube.com/watch?v=vj8KSZjPTUU)
 ***
-<h1 id="get1">Return Length of Arguments Passed</h1>
+//TODO
+<a id="get-1"></a>
+### [Return Length of Arguments Passed]
+* …args 是一個剩餘參數，傳入的任何參數都可以被綁定為陣列
+* 如果確定要做陣列處理 可以使用 …args  
 <pre><code>function test() {
   console.log("notice the blank line before this function?");
 }
+</code></pre>  
+3. 若不確定是要單純做 Array處理可以這樣做(傳入參數必須為Array，不然整個參數型態都會變掉)：  
+<pre><code>
+function argumentsLength (args){
+	return args.length;
+}
+console.log(argumentsLength([{},null],"3") //3
 </code></pre>
+//TODO
