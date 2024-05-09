@@ -13,6 +13,9 @@
 [延伸學習-展開運算子Spread operator](https://ithelp.ithome.com.tw/articles/10214412)  
 2. [Add Two Promises]  
 [延伸學習-Promise&async await](https://medium.com/@cherylrueichun/leetcode%E5%88%B7%E9%A1%8C-%E8%A4%87%E7%BF%92promise-async-await-93950d4f670b)
+## 5/9
+1.  [async promise -Sleep]
+[參考資料](https://medium.com/@cherylrueichun/leetcode%E5%88%B7%E9%A1%8C-%E8%A4%87%E7%BF%92promise-async-await-93950d4f670b)
 ***
 ## 待完成筆記&每日閱讀筆記
 1. Optional Chaining Operator (?.)Links to an external site. [參考文件](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Operators/Optional_chaining)
