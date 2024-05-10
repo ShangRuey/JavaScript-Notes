@@ -16,6 +16,8 @@
 ## 5/9
 1.  [async promise -Sleep]
 [參考資料](https://medium.com/@cherylrueichun/leetcode%E5%88%B7%E9%A1%8C-%E8%A4%87%E7%BF%92promise-async-await-93950d4f670b)
+## 5/10
+1. [2704. To Be Or Not To Be] [參考資料](https://medium.com/@yachuh/leetcode-%E5%88%B7%E9%A1%8C%E7%AD%86%E8%A8%98-easy-2704-to-be-or-not-to-be-9e23d1a2011f)
 ***
 ## 待完成筆記&每日閱讀筆記
 1. Optional Chaining Operator (?.)Links to an external site. [參考文件](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Operators/Optional_chaining)
