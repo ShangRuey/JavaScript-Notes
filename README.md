@@ -8,13 +8,13 @@
 ## 4/17
 1. immutable 與 mutableLinks to an external site. [參考文件](https://howtocreateapps.com/mutable-and-immutable-types-in-javascript-with-examples/)
 ## 5/6 開始使用LeetCode 刷題
-1.  [Return Length of Arguments Passed]  
+1.  [2703. Return Length of Arguments Passed]  
 [延伸學習-剩餘參數語法Rest parameter](https://ithelp.ithome.com.tw/articles/10214394)  
 [延伸學習-展開運算子Spread operator](https://ithelp.ithome.com.tw/articles/10214412)  
-2. [Add Two Promises]  
+2. [2723. Add Two Promises]  
 [延伸學習-Promise&async await](https://medium.com/@cherylrueichun/leetcode%E5%88%B7%E9%A1%8C-%E8%A4%87%E7%BF%92promise-async-await-93950d4f670b)
 ## 5/9
-1.  [async promise -Sleep]
+1.  [2621. async promise -Sleep]
 [參考資料](https://medium.com/@cherylrueichun/leetcode%E5%88%B7%E9%A1%8C-%E8%A4%87%E7%BF%92promise-async-await-93950d4f670b)
 ## 5/10
 1. [2704. To Be Or Not To Be] [參考資料](https://medium.com/@yachuh/leetcode-%E5%88%B7%E9%A1%8C%E7%AD%86%E8%A8%98-easy-2704-to-be-or-not-to-be-9e23d1a2011f)
