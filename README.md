@@ -22,6 +22,9 @@
 1. [3110. Score of a String]
  [參考資料-String.charCodeAt()](https://www.runoob.com/jsref/jsref-charcodeat.html)
  [參考資料-Math.abs(x)](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Math/abs)
+## 5/12
+1. [2715. Timeout Cancellation]
+   [參考資料 - setTimeout & clearTimeout](https://vocus.cc/article/6524f9e8fd89780001bee027)
 ***
 ## 待完成筆記&每日閱讀筆記
 1. Optional Chaining Operator (?.)Links to an external site. [參考文件](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Operators/Optional_chaining)
