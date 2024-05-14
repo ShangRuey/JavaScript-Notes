@@ -25,6 +25,15 @@
 ## 5/12
 1. [2715. Timeout Cancellation]
    [參考資料 - setTimeout & clearTimeout](https://vocus.cc/article/6524f9e8fd89780001bee027)
+## 5/13
+1. [2695. Array Wrapper] 
+[參考資料 - JavaScript Prototype ](https://www.shubo.io/javascript-prototype/)
+[參考資料 - JavaScript Reduce](https://medium.com/unalai/%E8%AA%8D%E8%AD%98-javascript-reduce-940806267bfb)
+[參考資料 - JSON.stringify() and JSON.parse()：變 JSON 和變物件](https://medium.com/itsems-frontend/javascript-json-stringify-and-json-parse-7a1251d3824c)
+## 5/14
+1. [2666. Allow One Function Call]
+[參考資料 - Allow One Function Call](https://www.youtube.com/watch?v=m_SWhM9iX3s)
+[延伸閱讀 -JavaScript - call，apply，bind](https://ithelp.ithome.com.tw/articles/10195896)
 ***
 ## 待完成筆記&每日閱讀筆記
 1. Optional Chaining Operator (?.)Links to an external site. [參考文件](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Operators/Optional_chaining)
