@@ -37,6 +37,10 @@
 ## 5/15
 1. [git ignore使用](https://ithelp.ithome.com.tw/m/articles/10329189)
 2. [Git flow](https://enginebai.medium.com/git-flow-60b9466e9942)
+3. [CSS - background](https://developer.mozilla.org/zh-CN/docs/Web/CSS/background-attachment)
+4. [CSS - flex、justify-content、align-items]
+5. [Google-Fonts]
+6. [box-shadow]
 ***
 ## 待完成筆記&每日閱讀筆記
 1. Optional Chaining Operator (?.)Links to an external site. [參考文件](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Operators/Optional_chaining)
