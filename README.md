@@ -34,6 +34,9 @@
 1. [2666. Allow One Function Call]
 [參考資料 - Allow One Function Call](https://www.youtube.com/watch?v=m_SWhM9iX3s)
 [延伸閱讀 -JavaScript - call，apply，bind](https://ithelp.ithome.com.tw/articles/10195896)
+## 5/15
+1. [git ignore使用](https://ithelp.ithome.com.tw/m/articles/10329189)
+2. [Git flow](https://enginebai.medium.com/git-flow-60b9466e9942)
 ***
 ## 待完成筆記&每日閱讀筆記
 1. Optional Chaining Operator (?.)Links to an external site. [參考文件](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Operators/Optional_chaining)
