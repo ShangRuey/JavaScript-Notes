@@ -47,6 +47,7 @@
 1. [LeetCode - 2635. Apply Transform Over Each Element in Array][相關資料 - 陣列 (Array) 的遍歷方法](https://www.explainthis.io/zh-hant/swe/iterate-array)
 2. [fontawesome]
 3. [CSS - cursor](https://developer.mozilla.org/en-US/docs/Web/CSS/cursor)
+4. [JS - window.location.href]
 ***
 ## 待完成筆記&每日閱讀筆記
 1. Optional Chaining Operator (?.)Links to an external site. [參考文件](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Operators/Optional_chaining)
