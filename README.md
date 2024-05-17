@@ -55,6 +55,9 @@
 4. [JS - Array.find()](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Global_Objects/Array/find)
 5. [Dom - contains](https://blog.csdn.net/weixin_46953330/article/details/114897227)
 6. [變數常數資料類型](https://jim-5.gitbook.io/javascript-tip/chapter1)
+7. [LeetCode - 2634. Filter Elements from Array](https://leetcode.com/problems/filter-elements-from-array/description/)
+[參考資料 - Array.map((item,index)](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
+
 ***
 ## 待完成筆記&每日閱讀筆記
 1. Optional Chaining Operator (?.)Links to an external site. [參考文件](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Operators/Optional_chaining)
