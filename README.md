@@ -48,6 +48,13 @@
 2. [fontawesome]
 3. [CSS - cursor](https://developer.mozilla.org/en-US/docs/Web/CSS/cursor)
 4. [JS - window.location.href]
+## 5/17
+1. [JS - Array.from()](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Global_Objects/Array/from)
+2. [JS - Array.includes()](https://www.w3schools.com/jsref/jsref_includes.asp)
+3. [JS - Array.filter()](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)
+4. [JS - Array.find()](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Global_Objects/Array/find)
+5. [Dom - contains](https://blog.csdn.net/weixin_46953330/article/details/114897227)
+6. [變數常數資料類型](https://jim-5.gitbook.io/javascript-tip/chapter1)
 ***
 ## 待完成筆記&每日閱讀筆記
 1. Optional Chaining Operator (?.)Links to an external site. [參考文件](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Operators/Optional_chaining)
