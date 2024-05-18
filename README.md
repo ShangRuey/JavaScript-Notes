@@ -62,7 +62,7 @@
 ## 5/18
 1. [LeetCode - 2626. Array Reduce Transformation](https://leetcode.com/problems/array-reduce-transformation/description/)  
 [相關資料 - Array.reduce()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce)
-2. []
+2. [CSS - position](https://ithelp.ithome.com.tw/articles/10253500)
 ***
 ## 待完成筆記&每日閱讀筆記
 1. Optional Chaining Operator (?.)Links to an external site.  [參考文件](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Operators/Optional_chaining)
