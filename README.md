@@ -9,30 +9,30 @@
 1. immutable 與 mutableLinks to an external site.  
 [參考文件](https://howtocreateapps.com/mutable-and-immutable-types-in-javascript-with-examples/)
 ## 5/6 開始使用LeetCode 刷題
-1.  [2703. Return Length of Arguments Passed]  
+1.  [LeetCode - 2703. Return Length of Arguments Passed]  
 [延伸學習-剩餘參數語法Rest parameter](https://ithelp.ithome.com.tw/articles/10214394)  
 [延伸學習-展開運算子Spread operator](https://ithelp.ithome.com.tw/articles/10214412)  
-2. [2723. Add Two Promises]  
+2. [LeetCode - 2723. Add Two Promises]  
 [延伸學習-Promise&async await](https://medium.com/@cherylrueichun/leetcode%E5%88%B7%E9%A1%8C-%E8%A4%87%E7%BF%92promise-async-await-93950d4f670b)
 ## 5/9
-1.  [2621. async promise -Sleep]  
+1.  [LeetCode - 2621. async promise -Sleep]  
 [參考資料](https://medium.com/@cherylrueichun/leetcode%E5%88%B7%E9%A1%8C-%E8%A4%87%E7%BF%92promise-async-await-93950d4f670b)
 ## 5/10
-1. [2704. To Be Or Not To Be]  [參考資料](https://medium.com/@yachuh/leetcode-%E5%88%B7%E9%A1%8C%E7%AD%86%E8%A8%98-easy-2704-to-be-or-not-to-be-9e23d1a2011f)
+1. [LeetCode - 2704. To Be Or Not To Be]  [參考資料](https://medium.com/@yachuh/leetcode-%E5%88%B7%E9%A1%8C%E7%AD%86%E8%A8%98-easy-2704-to-be-or-not-to-be-9e23d1a2011f)
 ## 5/11
-1. [3110. Score of a String]  
+1. [LeetCode - 3110. Score of a String]  
  [參考資料-String.charCodeAt()](https://www.runoob.com/jsref/jsref-charcodeat.html)  
  [參考資料-Math.abs(x)](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Math/abs)
 ## 5/12
-1. [2715. Timeout Cancellation]  
+1. [LeetCode - 2715. Timeout Cancellation]  
    [參考資料 - setTimeout & clearTimeout](https://vocus.cc/article/6524f9e8fd89780001bee027)
 ## 5/13
-1. [2695. Array Wrapper]  
+1. [LeetCode - 2695. Array Wrapper]  
 [參考資料 - JavaScript Prototype ](https://www.shubo.io/javascript-prototype/)  
 [參考資料 - JavaScript Reduce](https://medium.com/unalai/%E8%AA%8D%E8%AD%98-javascript-reduce-940806267bfb)  
 [參考資料 - JSON.stringify() and JSON.parse()：變 JSON 和變物件](https://medium.com/itsems-frontend/javascript-json-stringify-and-json-parse-7a1251d3824c)
 ## 5/14
-1. [2666. Allow One Function Call]  
+1. [LeetCode - 2666. Allow One Function Call]  
 [參考資料 - Allow One Function Call](https://www.youtube.com/watch?v=m_SWhM9iX3s)  
 [延伸閱讀 -JavaScript - call，apply，bind](https://ithelp.ithome.com.tw/articles/10195896)
 ## 5/15(1-6專案使用、7-LeetCode)
