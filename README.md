@@ -6,7 +6,8 @@
 4. 陣列 / 物件的解構賦值(Destructuring Assignment) [參考文件](https://eyesofkids.gitbooks.io/javascript-start-from-es6/content/part4/destructuring.html)
 5. 展開運算子 (Spread Operator) 與其餘運算子 (Rest Operator) [參考文件](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment)
 ## 4/17
-1. immutable 與 mutableLinks to an external site. [參考文件](https://howtocreateapps.com/mutable-and-immutable-types-in-javascript-with-examples/)
+1. immutable 與 mutableLinks to an external site.  
+[參考文件](https://howtocreateapps.com/mutable-and-immutable-types-in-javascript-with-examples/)
 ## 5/6 開始使用LeetCode 刷題
 1.  [2703. Return Length of Arguments Passed]  
 [延伸學習-剩餘參數語法Rest parameter](https://ithelp.ithome.com.tw/articles/10214394)  
@@ -14,25 +15,25 @@
 2. [2723. Add Two Promises]  
 [延伸學習-Promise&async await](https://medium.com/@cherylrueichun/leetcode%E5%88%B7%E9%A1%8C-%E8%A4%87%E7%BF%92promise-async-await-93950d4f670b)
 ## 5/9
-1.  [2621. async promise -Sleep]
+1.  [2621. async promise -Sleep]  
 [參考資料](https://medium.com/@cherylrueichun/leetcode%E5%88%B7%E9%A1%8C-%E8%A4%87%E7%BF%92promise-async-await-93950d4f670b)
 ## 5/10
-1. [2704. To Be Or Not To Be] [參考資料](https://medium.com/@yachuh/leetcode-%E5%88%B7%E9%A1%8C%E7%AD%86%E8%A8%98-easy-2704-to-be-or-not-to-be-9e23d1a2011f)
+1. [2704. To Be Or Not To Be]  [參考資料](https://medium.com/@yachuh/leetcode-%E5%88%B7%E9%A1%8C%E7%AD%86%E8%A8%98-easy-2704-to-be-or-not-to-be-9e23d1a2011f)
 ## 5/11
-1. [3110. Score of a String]
- [參考資料-String.charCodeAt()](https://www.runoob.com/jsref/jsref-charcodeat.html)
+1. [3110. Score of a String]  
+ [參考資料-String.charCodeAt()](https://www.runoob.com/jsref/jsref-charcodeat.html)  
  [參考資料-Math.abs(x)](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Math/abs)
 ## 5/12
-1. [2715. Timeout Cancellation]
+1. [2715. Timeout Cancellation]  
    [參考資料 - setTimeout & clearTimeout](https://vocus.cc/article/6524f9e8fd89780001bee027)
 ## 5/13
-1. [2695. Array Wrapper] 
-[參考資料 - JavaScript Prototype ](https://www.shubo.io/javascript-prototype/)
-[參考資料 - JavaScript Reduce](https://medium.com/unalai/%E8%AA%8D%E8%AD%98-javascript-reduce-940806267bfb)
+1. [2695. Array Wrapper]  
+[參考資料 - JavaScript Prototype ](https://www.shubo.io/javascript-prototype/)  
+[參考資料 - JavaScript Reduce](https://medium.com/unalai/%E8%AA%8D%E8%AD%98-javascript-reduce-940806267bfb)  
 [參考資料 - JSON.stringify() and JSON.parse()：變 JSON 和變物件](https://medium.com/itsems-frontend/javascript-json-stringify-and-json-parse-7a1251d3824c)
 ## 5/14
-1. [2666. Allow One Function Call]
-[參考資料 - Allow One Function Call](https://www.youtube.com/watch?v=m_SWhM9iX3s)
+1. [2666. Allow One Function Call]  
+[參考資料 - Allow One Function Call](https://www.youtube.com/watch?v=m_SWhM9iX3s)  
 [延伸閱讀 -JavaScript - call，apply，bind](https://ithelp.ithome.com.tw/articles/10195896)
 ## 5/15(1-6專案使用、7-LeetCode)
 1. [git ignore使用](https://ithelp.ithome.com.tw/m/articles/10329189)
@@ -41,10 +42,11 @@
 4. [CSS - flex、justify-content、align-items]
 5. [Google-Fonts]
 6. [box-shadow]
-7. [LeetCode - 2629. Function Composition]
+7. [LeetCode - 2629. Function Composition]  
 [參考資料 - 箭頭函式](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
 ## 5/16
-1. [LeetCode - 2635. Apply Transform Over Each Element in Array][相關資料 - 陣列 (Array) 的遍歷方法](https://www.explainthis.io/zh-hant/swe/iterate-array)
+1. [LeetCode - 2635. Apply Transform Over Each Element in Array]  
+[相關資料 - 陣列 (Array) 的遍歷方法](https://www.explainthis.io/zh-hant/swe/iterate-array)
 2. [fontawesome]
 3. [CSS - cursor](https://developer.mozilla.org/en-US/docs/Web/CSS/cursor)
 4. [JS - window.location.href]
@@ -55,16 +57,19 @@
 4. [JS - Array.find()](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Global_Objects/Array/find)
 5. [Dom - contains](https://blog.csdn.net/weixin_46953330/article/details/114897227)
 6. [變數常數資料類型](https://jim-5.gitbook.io/javascript-tip/chapter1)
-7. [LeetCode - 2634. Filter Elements from Array](https://leetcode.com/problems/filter-elements-from-array/description/)
+7. [LeetCode - 2634. Filter Elements from Array](https://leetcode.com/problems/filter-elements-from-array/description/)  
 [參考資料 - Array.map((item,index)](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
-
+## 5/18
+1. [LeetCode - 2626. Array Reduce Transformation](https://leetcode.com/problems/array-reduce-transformation/description/)  
+[相關資料 - Array.reduce()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce)
+2. []
 ***
 ## 待完成筆記&每日閱讀筆記
-1. Optional Chaining Operator (?.)Links to an external site. [參考文件](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Operators/Optional_chaining)
-2. ClosureLinks to an external site. [參考文件](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Closures)
-3. Class-componentLinks to an external site. [參考文件](https://legacy.reactjs.org/docs/components-and-props.html#function-and-class-components)
-4. 學好 React 需要的前置基本功 [參考文件](https://ithelp.ithome.com.tw/articles/10292582)
-5. React 起手式 — JS — ES6篇 [參考文件](https://milkmidi.medium.com/react-%E8%B5%B7%E6%89%8B%E5%BC%8F-js-es6%E7%AF%87-4b8f1a9e07e0)
+1. Optional Chaining Operator (?.)Links to an external site.  [參考文件](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Operators/Optional_chaining)
+2. ClosureLinks to an external site.  [參考文件](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Closures)
+3. Class-componentLinks to an external site.  [參考文件](https://legacy.reactjs.org/docs/components-and-props.html#function-and-class-components)
+4. 學好 React 需要的前置基本功  [參考文件](https://ithelp.ithome.com.tw/articles/10292582)
+5. React 起手式 — JS — ES6篇  [參考文件](https://milkmidi.medium.com/react-%E8%B5%B7%E6%89%8B%E5%BC%8F-js-es6%E7%AF%87-4b8f1a9e07e0)
 6. Creating and nesting components
 7. Writing markup with JSX
 8. Adding styles
