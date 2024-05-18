@@ -44,13 +44,13 @@
 6. [box-shadow]
 7. [LeetCode - 2629. Function Composition]  
 [參考資料 - 箭頭函式](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
-## 5/16
+## 5/16(1-LeetCode,2-4專案使用)
 1. [LeetCode - 2635. Apply Transform Over Each Element in Array]  
 [相關資料 - 陣列 (Array) 的遍歷方法](https://www.explainthis.io/zh-hant/swe/iterate-array)
 2. [fontawesome]
 3. [CSS - cursor](https://developer.mozilla.org/en-US/docs/Web/CSS/cursor)
 4. [JS - window.location.href]
-## 5/17
+## 5/17(1-6專案使用,7-LeetCode)
 1. [JS - Array.from()](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Global_Objects/Array/from)
 2. [JS - Array.includes()](https://www.w3schools.com/jsref/jsref_includes.asp)
 3. [JS - Array.filter()](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)
@@ -59,7 +59,7 @@
 6. [變數常數資料類型](https://jim-5.gitbook.io/javascript-tip/chapter1)
 7. [LeetCode - 2634. Filter Elements from Array](https://leetcode.com/problems/filter-elements-from-array/description/)  
 [參考資料 - Array.map((item,index)](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
-## 5/18
+## 5/18(1-LeetCode,2-3專案使用)
 1. [LeetCode - 2626. Array Reduce Transformation](https://leetcode.com/problems/array-reduce-transformation/description/)  
 [相關資料 - Array.reduce()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce)
 2. [CSS - position](https://ithelp.ithome.com.tw/articles/10253500)
