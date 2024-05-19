@@ -64,6 +64,14 @@
 [相關資料 - Array.reduce()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce)
 2. [CSS - position](https://ithelp.ithome.com.tw/articles/10253500)
 3. [CSS - object-fit](https://developer.mozilla.org/zh-CN/docs/Web/CSS/object-fit)
+## 5/19(1、2 -LeetCode)
+1. [LeetCode - 2677. Chunk Array]  
+[參考資料 - Array.prototype.slice()](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Global_Objects/Array/slice)  
+[參考資料 - Array.prototype.splice()](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Global_Objects/Array/splice)
+2. [!!!!  LeetCode - 2648. Generate Fibonacci Sequence  !!!!]  
+[參考資料 - JS進階議題-yield & yield* 生成器](https://www.lagagain.com/post/7%E5%A4%A9%E6%90%9E%E6%87%82js%E9%80%B2%E9%9A%8E%E8%AD%B0%E9%A1%8Cday06-yield-yield-%E7%94%9F%E6%88%90%E5%99%A8/)  
+[參考資料 - ChatGPT回答(寫在Notion)]  
+[參考資料 - yield解釋](https://www.tangshuang.net/2862.html)
 ***
 ## 待完成筆記&每日閱讀筆記
 1. Optional Chaining Operator (?.)Links to an external site.  [參考文件](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Operators/Optional_chaining)
