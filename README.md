@@ -72,6 +72,9 @@
 [參考資料 - JS進階議題-yield & yield* 生成器](https://www.lagagain.com/post/7%E5%A4%A9%E6%90%9E%E6%87%82js%E9%80%B2%E9%9A%8E%E8%AD%B0%E9%A1%8Cday06-yield-yield-%E7%94%9F%E6%88%90%E5%99%A8/)  
 [參考資料 - ChatGPT回答(寫在Notion)]  
 [參考資料 - yield解釋](https://www.tangshuang.net/2862.html)
+## 5/20
+1. [研究特定網站程式碼]
+2. [LeetCode - 2724. Sort By]
 ***
 ## 待完成筆記&每日閱讀筆記
 1. Optional Chaining Operator (?.)Links to an external site.  [參考文件](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Operators/Optional_chaining)
