@@ -74,7 +74,8 @@
 [參考資料 - yield解釋](https://www.tangshuang.net/2862.html)
 ## 5/20
 1. [研究特定網站程式碼]
-2. [LeetCode - 2724. Sort By]
+2. [LeetCode - 2724. Sort By]  
+[參考資料 - Array.sort()](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Global_Objects/Array/sort)
 ***
 ## 待完成筆記&每日閱讀筆記
 1. Optional Chaining Operator (?.)Links to an external site.  [參考文件](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Operators/Optional_chaining)
