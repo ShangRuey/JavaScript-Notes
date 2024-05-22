@@ -76,6 +76,10 @@
 1. [研究特定網站程式碼]
 2. [LeetCode - 2724. Sort By]  
 [參考資料 - Array.sort()](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Global_Objects/Array/sort)
+## 5/22
+1. [CSS - position]
+2. [LeetCode - 2667. Create Hello World Function]
+3. [LeetCode - 2620. Counter]
 ***
 ## 待完成筆記&每日閱讀筆記
 1. Optional Chaining Operator (?.)Links to an external site.  [參考文件](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Operators/Optional_chaining)
