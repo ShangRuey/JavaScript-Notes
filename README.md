@@ -86,7 +86,8 @@
 3. [LeetCode - 2665. Counter II]
 ## 5/24
 1. [CSS RWD修改 - max/min width/height]
-2. 
+2. [LeetCode - 2727. Is Object Empty]  
+[參考資料 - for...of / for...in](https://kanboo.github.io/2018/01/30/JS-for-of-forin/)
 ***
 ## 待完成筆記&每日閱讀筆記
 1. Optional Chaining Operator (?.)Links to an external site.  [參考文件](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Operators/Optional_chaining)
