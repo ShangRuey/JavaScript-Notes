@@ -88,6 +88,11 @@
 1. [CSS RWD修改 - max/min width/height]
 2. [LeetCode - 2727. Is Object Empty]  
 [參考資料 - for...of / for...in](https://kanboo.github.io/2018/01/30/JS-for-of-forin/)
+## 5/25
+1. [LeetCode - 2725. Interval Cancellation]  
+[參考資料 -  JavaScript 的 setTimeout 與 setInterval](https://kuro.tw/posts/2019/02/23/%E8%AB%87%E8%AB%87-JavaScript-%E7%9A%84-setTimeout-%E8%88%87-setInterval/)
+2. [CSS - position]  
+[參考資料 - Position](https://vocus.cc/article/6471ed27fd897800016725a3)
 ***
 ## 待完成筆記&每日閱讀筆記
 1. Optional Chaining Operator (?.)Links to an external site.  [參考文件](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Operators/Optional_chaining)
