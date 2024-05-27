@@ -97,6 +97,8 @@
 ## 5/26(完成PC、RWD橫向 首頁排版)
 1. [CSS - flex屬性](https://www.casper.tw/css/2017/07/21/css-flex/)
 2. [LeetCode - 2619. Array Prototype Last]
+## 5/27
+1. [複習 LeetCode - 2703 、 2723]
 ***
 ## 待完成筆記&每日閱讀筆記
 1. Optional Chaining Operator (?.)Links to an external site.  [參考文件](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Operators/Optional_chaining)
