@@ -98,9 +98,10 @@
 1. [CSS - flex屬性](https://www.casper.tw/css/2017/07/21/css-flex/)
 2. [LeetCode - 2619. Array Prototype Last]
 ## 5/27
-1. [複習 LeetCode - 2703 、 2723]
+1. [複習 LeetCode - 2703(rest parameter) 、 2723(async await 觀念)]
 ## 5/28
 1. [與Alex討論Pet Project]
+2. [使用ChatGPT 複習 LeetCode - 2621、async await promise 觀念]
 ***
 ## 待完成筆記&每日閱讀筆記
 1. Optional Chaining Operator (?.)Links to an external site.  [參考文件](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Operators/Optional_chaining)
