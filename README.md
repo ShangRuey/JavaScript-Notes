@@ -99,6 +99,8 @@
 2. [LeetCode - 2619. Array Prototype Last]
 ## 5/27
 1. [複習 LeetCode - 2703 、 2723]
+## 5/28
+1. [與Alex討論Pet Project]
 ***
 ## 待完成筆記&每日閱讀筆記
 1. Optional Chaining Operator (?.)Links to an external site.  [參考文件](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Operators/Optional_chaining)
