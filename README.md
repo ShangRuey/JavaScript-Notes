@@ -102,6 +102,9 @@
 ## 5/28
 1. [與Alex討論Pet Project]
 2. [使用ChatGPT 複習 LeetCode - 2621、async await promise 觀念]
+## 5/29
+1. [複習 LeetCode 2704. To Be Or Not To Be]
+2. [複習 LeetCode 3110. Score of a String]
 ***
 ## 待完成筆記&每日閱讀筆記
 1. Optional Chaining Operator (?.)Links to an external site.  [參考文件](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Operators/Optional_chaining)
