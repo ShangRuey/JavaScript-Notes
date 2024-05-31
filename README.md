@@ -108,6 +108,9 @@
 ## 5/30
 1. [手繪專案流程圖]
 2. [複習 LeetCode -2715. Timeout Cancellation]
+## 5/31
+1. [複習 LeetCode - 2695. Array Wrapper]
+2. [手繪專案流程圖]
 ***
 ## 待完成筆記&每日閱讀筆記
 1. Optional Chaining Operator (?.)Links to an external site.  [參考文件](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Operators/Optional_chaining)
