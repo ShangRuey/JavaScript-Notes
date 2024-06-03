@@ -111,6 +111,12 @@
 ## 5/31
 1. [複習 LeetCode - 2695. Array Wrapper]
 2. [手繪專案流程圖]
+## 6/1
+1. [手繪專案流程圖]
+2. [確認 後端需要的table]
+## 6/2
+1. [JavaScript - Boolean 真假值判斷](https://ithelp.ithome.com.tw/articles/10191343)
+2. [JavaScript - pass by value、pass by reference、pass by sharing](https://www.programfarmer.com/articles/2021/javascript-pass-by-value-pass-by-reference-pass-by-sharing)
 ***
 ## 待完成筆記&每日閱讀筆記
 1. Optional Chaining Operator (?.)Links to an external site.  [參考文件](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Operators/Optional_chaining)
