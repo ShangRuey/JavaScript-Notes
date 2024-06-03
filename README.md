@@ -116,7 +116,8 @@
 2. [確認 後端需要的table]
 ## 6/2
 1. [JavaScript - Boolean 真假值判斷](https://ithelp.ithome.com.tw/articles/10191343)
-2. [JavaScript - pass by value、pass by reference、pass by sharing](https://www.programfarmer.com/articles/2021/javascript-pass-by-value-pass-by-reference-pass-by-sharing)
+2. [JavaScript - pass by value、pass by reference、pass by sharing](https://www.programfarmer.com/articles/2021/javascript-pass-by-value-pass-by-reference-pass-by-sharing)  
+3. [用AI 提高工程師 生產力](https://tw.alphacamp.co/blog/three-ways-to-use-ai-to-enhance-the-productivity-of-a-engineer)
 ***
 ## 待完成筆記&每日閱讀筆記
 1. Optional Chaining Operator (?.)Links to an external site.  [參考文件](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Operators/Optional_chaining)
