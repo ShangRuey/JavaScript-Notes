@@ -119,7 +119,17 @@
 2. [JavaScript - pass by value、pass by reference、pass by sharing](https://www.programfarmer.com/articles/2021/javascript-pass-by-value-pass-by-reference-pass-by-sharing)  
 3. [用AI 提高工程師 生產力](https://tw.alphacamp.co/blog/three-ways-to-use-ai-to-enhance-the-productivity-of-a-engineer)  
 4. [討論 需要的table]  
-5. [JavaScript - call，apply，bind](https://ithelp.ithome.com.tw/articles/10195896)  
+5. [JavaScript - call，apply，bind](https://ithelp.ithome.com.tw/articles/10195896)
+## 6/3
+1. [複習 LeetCode - 2666. Allow One Function Call]
+2. [複習 LeetCode - 2629. Function Composition]
+## 6/4
+1. [討論專案]
+2. [整理專案文件 - 網站功能]
+3. [複習 LeetCode - 2635. Apply Transform Over Each Element in Array]
+## 6/5
+1. [整理專案文件 - 網站功能]
+2. [複習 LeetCode - 2634. Filter Elements from Array]
 ***
 ## 待完成筆記&每日閱讀筆記
 1. Optional Chaining Operator (?.)Links to an external site.  [參考文件](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Operators/Optional_chaining)
