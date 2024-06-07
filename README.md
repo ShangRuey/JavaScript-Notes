@@ -130,6 +130,11 @@
 ## 6/5
 1. [整理專案文件 - 網站功能]
 2. [複習 LeetCode - 2634. Filter Elements from Array]
+## 6/6
+1. [整理專案文件 - 網站功能]
+2. [參考其他網站 及 BootStrap]
+## 6/7
+1. [複習 LeetCode - 2626. Array Reduce Transformation]
 ***
 ## 待完成筆記&每日閱讀筆記
 1. Optional Chaining Operator (?.)Links to an external site.  [參考文件](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Operators/Optional_chaining)
