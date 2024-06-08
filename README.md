@@ -135,6 +135,8 @@
 2. [參考其他網站 及 BootStrap]
 ## 6/7
 1. [複習 LeetCode - 2626. Array Reduce Transformation]
+## 6/8
+1. [複習 LeetCode - 2677. Chunk Array (slice, splice, split](https://chloelin.coderbridge.io/2022/02/14/js-splice-slice-split/)
 ***
 ## 待完成筆記&每日閱讀筆記
 1. Optional Chaining Operator (?.)Links to an external site.  [參考文件](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Operators/Optional_chaining)
