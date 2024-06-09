@@ -139,7 +139,8 @@
 1. [複習 LeetCode - 2677. Chunk Array (slice, splice, split](https://chloelin.coderbridge.io/2022/02/14/js-splice-slice-split/)
 ## 6/9
 1. [專案 - Register 註冊頁面]
-2. [討論專案 - 新增功能 忘記密碼、帳號驗證]
+2. [專案 - Login 登入頁面]
+3. [討論專案 - 新增功能 忘記密碼、帳號驗證]
 ***
 ## 待完成筆記&每日閱讀筆記
 1. Optional Chaining Operator (?.)Links to an external site.  [參考文件](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Operators/Optional_chaining)
