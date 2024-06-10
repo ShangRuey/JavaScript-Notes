@@ -141,6 +141,9 @@
 1. [專案 - Register 註冊頁面]
 2. [專案 - Login 登入頁面]
 3. [討論專案 - 新增功能 忘記密碼、帳號驗證]
+## 6/10
+1. [討論專案]
+2. [專案 - 登入、忘記密碼]
 ***
 ## 待完成筆記&每日閱讀筆記
 1. Optional Chaining Operator (?.)Links to an external site.  [參考文件](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Operators/Optional_chaining)
