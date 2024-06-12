@@ -144,6 +144,10 @@
 ## 6/10
 1. [討論專案]
 2. [專案 - 登入、忘記密碼]
+## 6/11
+1. [專案 - Register 驗證 排版調整]
+## 6/12
+1. [專案 - index 首頁排版更改 確認 畫圖]
 ***
 ## 待完成筆記&每日閱讀筆記
 1. Optional Chaining Operator (?.)Links to an external site.  [參考文件](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Operators/Optional_chaining)
