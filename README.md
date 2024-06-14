@@ -148,6 +148,12 @@
 1. [專案 - Register 驗證 排版調整]
 ## 6/12
 1. [專案 - index 首頁排版更改 確認 畫圖]
+## 6/13
+1. [討論專案]
+2. [index首頁 - RWD 調整]
+## 6/14
+1. [登入頁面 - 更新流程]
+2. [Axios interceptors攔截器]
 ***
 ## 待完成筆記&每日閱讀筆記
 1. Optional Chaining Operator (?.)Links to an external site.  [參考文件](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Operators/Optional_chaining)
