@@ -153,7 +153,8 @@
 2. [index首頁 - RWD 調整]
 ## 6/14
 1. [登入頁面 - 更新流程]
-2. [Axios interceptors攔截器]
+2. [Axios interceptors攔截器 & 如何使用React useEffect 實作 更新 token]
+3. [token, cookie, session 差別]
 ***
 ## 待完成筆記&每日閱讀筆記
 1. Optional Chaining Operator (?.)Links to an external site.  [參考文件](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Operators/Optional_chaining)
