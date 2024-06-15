@@ -155,6 +155,9 @@
 1. [登入頁面 - 更新流程]
 2. [Axios interceptors攔截器 & 如何使用React useEffect 實作 更新 token](https://happyjayxin.medium.com/%E5%89%8D%E7%AB%AF%E5%A6%82%E4%BD%95%E7%84%A1%E6%84%9F%E5%88%B7%E6%96%B0-token-35591a075411)
 3. [token, cookie, session 差別]
+## 6/15
+1. [專案 - Header、Footer 修改]
+2. [專案 - 會員中心]
 ***
 ## 待完成筆記&每日閱讀筆記
 1. Optional Chaining Operator (?.)Links to an external site.  [參考文件](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Operators/Optional_chaining)
