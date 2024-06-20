@@ -164,6 +164,10 @@
 3. [專案討論]
 ## 6/17
 1. [專案 - 會員中心]
+## 6/18
+1. [專案 - 電商金流測試]
+## 6/19
+1. [專案討論]
 ***
 ## 待完成筆記&每日閱讀筆記
 1. Optional Chaining Operator (?.)Links to an external site.  [參考文件](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Operators/Optional_chaining)
