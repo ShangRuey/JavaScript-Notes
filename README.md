@@ -170,6 +170,21 @@
 1. [專案討論]
 ## 6/20
 1. [專案 - 會員中心(修改會員資料)]
+## 6/21 - 7/2 Html & CSS 練習
+1. [GoogleFonts Poppins](https://fonts.google.com/specimen/Poppins)
+2. [CSS overflow](https://developer.mozilla.org/en-US/docs/Web/CSS/overflow)
+3. [CSS em 相對長度](https://medium.com/%E9%BA%A5%E5%85%8B%E7%9A%84%E5%8D%8A%E8%B7%AF%E5%87%BA%E5%AE%B6%E7%AD%86%E8%A8%98/css-%E5%B0%8F%E6%8A%80%E5%B7%A7%E5%88%86%E4%BA%AB-em-%E5%96%AE%E4%BD%8D%E7%9A%84%E5%BC%B7%E5%A4%A7%E7%94%A8%E9%80%94-457dc30a83b4)
+4. [CSS grid - grid-template-rows & grid-template-columns](https://medium.com/enjoy-life-enjoy-coding/css-%E6%89%80%E4%BB%A5%E6%88%91%E8%AA%AA%E9%82%A3%E5%80%8B%E7%89%88%E8%83%BD%E4%B8%8D%E8%83%BD%E5%A5%BD%E5%88%87%E4%B8%80%E9%BB%9E-grid-%E5%9F%BA%E6%9C%AC%E7%94%A8%E6%B3%95-cd763091cf70)
+5. [CSS gap](https://developer.mozilla.org/zh-CN/docs/Web/CSS/gap)  
+[gap 在flex 的使用](https://yogwang.site/2021/CSS-use-gap-in-flex-layout/)
+7. [CSS background-color:transparent 背景透明]
+8. [CSS opacity 圖片透明度](https://www.webdesigns.com.tw/css_img-opacity.asp)
+9. [CSS max-content、min-content、fit-content 寬度設定](https://shinyu0430.github.io/2021/09/21/maxwidthminwidthfitcontent/)
+10. [CSS flex-grow/shrink/basis](https://hackmd.io/@VicSun/H1EB_T4JY)
+11. [CSS object-fit 圖片處理](https://developer.mozilla.org/zh-CN/docs/Web/CSS/object-fit)
+12. [CSS transitions 轉場效果](https://eyesofkids.gitbooks.io/css3/content/contents/transitions.html)
+13. [CSS filter:blur 模糊效果](https://developer.mozilla.org/en-US/docs/Web/CSS/filter-function/blur)  
+[filter](https://developer.mozilla.org/zh-CN/docs/Web/CSS/filter)
 ***
 ## 待完成筆記&每日閱讀筆記
 1. Optional Chaining Operator (?.)Links to an external site.  [參考文件](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Operators/Optional_chaining)
